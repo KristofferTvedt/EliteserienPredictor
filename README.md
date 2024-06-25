@@ -8,4 +8,4 @@ In this project, the goal is to predict the match winners of football matches in
 4. Measure error and improve our predictions
 
 ## Code
-The code for this project is avaliabe here: [Here]([https://pages.github.com/](https://github.com/KristofferTvedt/EliteserienPredictor)).
+The code for this project is avaliabe here: [Here](https://github.com/KristofferTvedt/EliteserienPredictor)
