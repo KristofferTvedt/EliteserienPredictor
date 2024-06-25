@@ -9,3 +9,9 @@ In this project, the goal is to predict the match winners of football matches in
 
 ## Code
 The code for this project is avaliabe here: [Here](https://github.com/KristofferTvedt/EliteserienPredictor)
+
+File overview:
+*scraping.ipynb - a jupyter notebook with the code for scraping the data needed
+*predictor.ipynb - a jupyter notebook with the code for making the predictions
+
+# Local Setup
